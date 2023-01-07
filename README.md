@@ -20,7 +20,7 @@ I am a complete 🤓 when it comes to **automating corporate processes** with:
     
     Outlook     creating templates for newsletters, and corporate signatures
                 and creating automatic workflows that are triggered after
-                receiving and email.
+                receiving an email.
     
     PowerPoint  either by "beautifying" presentations or creating templates 
                 that help non-designers create slides that match a corporate identity.
