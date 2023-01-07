@@ -2,9 +2,9 @@
 
 I ❤ gardening, DIY, and talking to good people (BTW, I can do it in English, Spanish, and "a-bit-broken" French, lol!).
 
-👨🏻‍💻 I work at [Grada](https://grada.cc)—a team of several like-minded people that I created together with my lovely wife!
+I 👨🏻‍💻 at [Grada](https://grada.cc)—a team of several like-minded people that I created with my lovely wife!
 
-I am a complete 🤓 when it comes to **automating corporate processes** with:
+I 🤓 out about **automating corporate processes** with:
 
     Excel       designing and implementing sales dashboards, 
                 and custom tools that help speed up time-consuming tasks
