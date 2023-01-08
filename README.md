@@ -1,5 +1,5 @@
 <!-- CHANCE: Adding a /docs folder could work for creating a static-website portfolio using GitHub pages in the future -->
-<!-- CHANCE: Add ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ricardoba13&show_icons=true)
+<!-- CHANCE: Add ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ricardoba13&show_icons=true) -->
 
 I ❤ learning, gardening, DIY, and talking to good people (BTW, I can do it in English, Spanish, and "a-bit-broken" French, lol!).
 
