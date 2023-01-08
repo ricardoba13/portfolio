@@ -26,3 +26,5 @@ I 🤓 out about **automating corporate processes** with:
                 that help non-designers create slides that match a corporate identity.
                 
 ![Ricardo's Github stats](https://github-readme-stats.vercel.app/api?username=ricardoba13&show_icons=true)
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ricardoba13&alt=ricardoba13)
