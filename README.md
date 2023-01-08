@@ -2,7 +2,7 @@
 
 I ❤ learning, gardening, DIY, and talking to good people (BTW, I can do it in English, Spanish, and "a-bit-broken" French, lol!).
 
-I 👨🏻‍💻 at [Grada](https://grada.cc)—a team of several like-minded people that I created with my lovely [wife](../../../../jhenngv)!
+I 👨🏻‍💻 at [Grada](https://grada.cc)—a team of several like-minded people that I created with my lovely and better cook [wife](../../../../jhenngv)!
 
 I 🤓 out about **automating corporate processes** with:
 
