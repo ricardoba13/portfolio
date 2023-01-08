@@ -1,6 +1,6 @@
 <!-- CHANCE: Adding a /docs folder could work for creating a static-website portfolio using GitHub pages in the future -->
 
-I ❤ gardening, DIY, and talking to good people (BTW, I can do it in English, Spanish, and "a-bit-broken" French, lol!).
+I ❤ learning, gardening, DIY, and talking to good people (BTW, I can do it in English, Spanish, and "a-bit-broken" French, lol!).
 
 I 👨🏻‍💻 at [Grada](https://grada.cc)—a team of several like-minded people that I created with my lovely [wife](../../../../jhenngv)!
 
